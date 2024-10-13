@@ -1,0 +1,64 @@
+body{
+background-color: white;
+font-family: 'Courier New', Courier, monospace;   
+}
+
+table{
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td{
+    color: white;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+}
+#img1{
+    height: 150px;
+}
+#logo{
+    background-color: black;
+}
+#img3{
+    height: 200px;
+    width: 300px;
+}
+#logo2{
+    background-color: black;
+}
+body{
+    background-color: black
+}
+.class1{
+    background-color: black;
+    color: white
+}
+#img2{
+    height: 300px;
+    width: 350px;
+    border-color: aliceblue;
+
+}
+#img3{
+    height: 200px;
+    width: 300px;
+    border-color: aliceblue;
+
+}
+#img4{
+    height: 200px;
+    width: 350px;
+    border-color: aliceblue;
+
+}
+.class2{
+    font-weight: bold;
+    color:aqua;
+}
+.class3{
+    font-weight: bold;
+    color:red;
+}
